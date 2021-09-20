@@ -1,17 +1,17 @@
-\contentsline {section}{\numberline {1}项目简介}{2}{}%
-\contentsline {section}{\numberline {2}度量数值}{2}{}%
-\contentsline {section}{\numberline {3}商业模式画布}{2}{}%
-\contentsline {subsection}{\numberline {3.1}要点概述}{2}{}%
-\contentsline {subsection}{\numberline {3.2}要点介绍}{2}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}关键业务}{2}{}%
-\contentsline {subsubsection}{\numberline {3.2.2}价值主张}{2}{}%
-\contentsline {subsubsection}{\numberline {3.2.3}客户细分}{2}{}%
-\contentsline {subsubsection}{\numberline {3.2.4}客户关系}{2}{}%
-\contentsline {subsubsection}{\numberline {3.2.5}核心资源}{2}{}%
-\contentsline {subsubsection}{\numberline {3.2.6}重要合作}{2}{}%
-\contentsline {subsubsection}{\numberline {3.2.7}成本结构}{2}{}%
-\contentsline {subsubsection}{\numberline {3.2.8}收入来源}{3}{}%
-\contentsline {subsubsection}{\numberline {3.2.9}渠道通路}{3}{}%
-\contentsline {subsection}{\numberline {3.3}要点联系}{3}{}%
-\contentsline {paragraph}{1a（也就是关键业务的第一项）, 2a（也就是价值主张的第一项）}{3}{}%
-\contentsline {paragraph}{。。。}{3}{}%
+\contentsline {section}{\numberline {1}项目简介}{3}{}%
+\contentsline {section}{\numberline {2}度量数值}{3}{}%
+\contentsline {section}{\numberline {3}商业模式画布}{3}{}%
+\contentsline {subsection}{\numberline {3.1}要点概述}{3}{}%
+\contentsline {subsection}{\numberline {3.2}要点介绍}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}关键业务}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}价值主张}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}客户细分}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.4}客户关系}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.5}核心资源}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.6}重要合作}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.7}成本结构}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.8}收入来源}{4}{}%
+\contentsline {subsubsection}{\numberline {3.2.9}渠道通路}{4}{}%
+\contentsline {subsection}{\numberline {3.3}要点联系}{4}{}%
+\contentsline {paragraph}{1a（也就是关键业务的第一项）, 2a（也就是价值主张的第一项）}{4}{}%
+\contentsline {paragraph}{。。。}{4}{}%
