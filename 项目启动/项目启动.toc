@@ -5,11 +5,11 @@
 \contentsline {subsection}{\numberline {3.2}要点介绍}{3}{}%
 \contentsline {subsubsection}{\numberline {3.2.1}关键业务}{3}{}%
 \contentsline {subsubsection}{\numberline {3.2.2}价值主张}{3}{}%
-\contentsline {subsubsection}{\numberline {3.2.3}客户细分}{3}{}%
-\contentsline {subsubsection}{\numberline {3.2.4}客户关系}{3}{}%
-\contentsline {subsubsection}{\numberline {3.2.5}核心资源}{3}{}%
-\contentsline {subsubsection}{\numberline {3.2.6}重要合作}{3}{}%
-\contentsline {subsubsection}{\numberline {3.2.7}成本结构}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}客户细分}{4}{}%
+\contentsline {subsubsection}{\numberline {3.2.4}客户关系}{4}{}%
+\contentsline {subsubsection}{\numberline {3.2.5}核心资源}{4}{}%
+\contentsline {subsubsection}{\numberline {3.2.6}重要合作}{4}{}%
+\contentsline {subsubsection}{\numberline {3.2.7}成本结构}{4}{}%
 \contentsline {subsubsection}{\numberline {3.2.8}收入来源}{4}{}%
 \contentsline {subsubsection}{\numberline {3.2.9}渠道通路}{4}{}%
 \contentsline {subsection}{\numberline {3.3}要点联系}{4}{}%
