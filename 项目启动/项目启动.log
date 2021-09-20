@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.19)  20 SEP 2021 22:13
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.19)  20 SEP 2021 23:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -442,8 +442,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 36.
-File: logo.jpg Graphic file (type bmp)
-<logo.jpg>
+File: logo.png Graphic file (type bmp)
+<logo.png>
 [1
 
 ] (./项目启动.toc
@@ -464,10 +464,10 @@ File: the-business-model-canvas.pdf Graphic file (type pdf)
 <use the-business-model-canvas.pdf>
  [3] [4] (./项目启动.aux) ) 
 Here is how much of TeX's memory you used:
- 9258 strings out of 478866
- 237847 string characters out of 5865579
- 559785 words of memory out of 5000000
- 28994 multiletter control sequences out of 15000+600000
+ 9259 strings out of 478866
+ 237862 string characters out of 5865579
+ 559793 words of memory out of 5000000
+ 28995 multiletter control sequences out of 15000+600000
  407338 words of font info for 71 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  101i,6n,104p,386b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
