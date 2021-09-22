@@ -13,39 +13,39 @@
 \contentsline {subsubsection}{\numberline {3.2.8}收入来源}{8}{}%
 \contentsline {subsubsection}{\numberline {3.2.9}渠道通路}{8}{}%
 \contentsline {subsection}{\numberline {3.3}要点联系}{8}{}%
-\contentsline {subsubsection}{\numberline {3.3.1}联系一}{8}{}%
-\contentsline {paragraph}{2.c（兼职平台）、3.c（宠物医疗行业从事者）、4.c（专属宠物问诊）、9.d（专属服务）}{8}{}%
-\contentsline {subsubsection}{\numberline {3.3.2}联系二}{9}{}%
-\contentsline {paragraph}{2.d（定制）、3.b（宠物爱好者）、4.a（社区）、4.d（客户共同创造）、9.a（大咖分享）}{9}{}%
-\contentsline {subsubsection}{\numberline {3.3.3}联系三}{9}{}%
-\contentsline {paragraph}{2.a（缩减用户成本）、9.b（供应链系统）、9.c（线下网点）、3.d（宠物及其用品供应商）、3.d（宠物爱好者）}{9}{}%
-\contentsline {subsubsection}{\numberline {3.3.4}联系四}{9}{}%
-\contentsline {paragraph}{2.e（贯彻动物保护理念）、4.a（社区）、3.f（动物保护志愿者）}{9}{}%
-\contentsline {subsubsection}{\numberline {3.3.5}联系五}{9}{}%
-\contentsline {paragraph}{2.a（一站式服务）、4.b（自动化服务）、4.c（专属宠物问诊）、9.b（供应链系统）、9.c（线下网点）、9.d（专属服务）3.d（宠物爱好者）}{9}{}%
-\contentsline {subsubsection}{\numberline {3.3.6}联系六}{9}{}%
-\contentsline {paragraph}{6.b（线下宠物医院/宠物医师）、1.c（医疗服务）}{9}{}%
-\contentsline {subsubsection}{\numberline {3.3.7}联系七}{9}{}%
-\contentsline {paragraph}{6.a（线下宠物店）、6.c（宠物用品供应商）、6.d（快递业）、1.d（商品买卖）}{9}{}%
-\contentsline {subsubsection}{\numberline {3.3.8}联系八}{10}{}%
-\contentsline {paragraph}{6.e（中国小动物保护协会）、6.f（动物保护志愿者）、1.e（动物保护）}{10}{}%
-\contentsline {subsubsection}{\numberline {3.3.9}联系九}{10}{}%
-\contentsline {paragraph}{5.b（知识性资源）、1.a（爱宠社区）、7.c（广告成本）}{10}{}%
-\contentsline {subsubsection}{\numberline {3.3.10}联系十}{10}{}%
-\contentsline {paragraph}{4.c（专属宠物问诊）、9.d（专属服务）、8.b（经纪人佣金）}{10}{}%
-\contentsline {subsubsection}{\numberline {3.3.11}联系十一}{10}{}%
-\contentsline {paragraph}{4.b（自动化服务）、9.b（供应链系统）、8.a（资产销售）}{10}{}%
-\contentsline {subsubsection}{\numberline {3.3.12}联系十二}{10}{}%
-\contentsline {paragraph}{4.a（社区）、3.a（广告商）、8.c（广告费）}{10}{}%
-\contentsline {subsubsection}{\numberline {3.3.13}联系十三}{10}{}%
-\contentsline {paragraph}{1.b（平台管理）、5.c（人力资源）、7.a（员工工资）}{10}{}%
-\contentsline {subsubsection}{\numberline {3.3.14}联系十四}{10}{}%
-\contentsline {paragraph}{1.c（医疗服务）、4.d（商品买卖）、5.a（实物资源）、7.d（合作成本）}{10}{}%
-\contentsline {subsubsection}{\numberline {3.3.15}联系十五}{11}{}%
-\contentsline {paragraph}{6.a（线下宠物店）、6.b（线下宠物医院/宠物医师）、9.c（线下网点）}{11}{}%
-\contentsline {subsubsection}{\numberline {3.3.16}联系十六}{11}{}%
-\contentsline {paragraph}{6.c（宠物用品供应商）、6.d（快递业）、9.b（供应链系统）}{11}{}%
-\contentsline {subsubsection}{\numberline {3.3.17}联系十七}{11}{}%
-\contentsline {paragraph}{6.a（线下宠物店）、6.b（线下宠物医院/宠物医师）、6.c（宠物用品供应商）、6.d（快递业）、5.a（实物资源）}{11}{}%
-\contentsline {subsubsection}{\numberline {3.3.18}联系十八}{11}{}%
-\contentsline {paragraph}{2.a（一站式服务）、3.b（宠物爱好者）、2.c（兼职平台）、3.c（宠物医疗从业者）、8.b（经纪人佣金）}{11}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}2.c（兼职平台）、3.c（宠物医疗行业从事者）、4.c（专属宠物问诊）、9.d（专属服务）}{8}{}%
+\contentsline {paragraph}{联系}{8}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}2.d（定制）、3.b（宠物爱好者）、4.a（社区）、4.d（客户共同创造）、9.a（大咖分享）}{9}{}%
+\contentsline {paragraph}{联系}{9}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}2.a（缩减用户成本）、9.b（供应链系统）、9.c（线下网点）、3.d（宠物及其用品供应商）、3.d（宠物爱好者）}{9}{}%
+\contentsline {paragraph}{联系}{9}{}%
+\contentsline {subsubsection}{\numberline {3.3.4}2.e（贯彻动物保护理念）、4.a（社区）、3.f（动物保护志愿者）}{9}{}%
+\contentsline {paragraph}{联系}{9}{}%
+\contentsline {subsubsection}{\numberline {3.3.5}2.a（一站式服务）、4.b（自动化服务）、4.c（专属宠物问诊）、9.b（供应链系统）、9.c（线下网点）、9.d（专属服务）3.d（宠物爱好者）}{9}{}%
+\contentsline {paragraph}{联系}{9}{}%
+\contentsline {subsubsection}{\numberline {3.3.6}6.b（线下宠物医院/宠物医师）、1.c（医疗服务）}{9}{}%
+\contentsline {paragraph}{联系}{9}{}%
+\contentsline {subsubsection}{\numberline {3.3.7}6.a（线下宠物店）、6.c（宠物用品供应商）、6.d（快递业）、1.d（商品买卖）}{9}{}%
+\contentsline {paragraph}{联系}{9}{}%
+\contentsline {subsubsection}{\numberline {3.3.8}6.e（中国小动物保护协会）、6.f（动物保护志愿者）、1.e（动物保护）}{9}{}%
+\contentsline {paragraph}{联系}{9}{}%
+\contentsline {subsubsection}{\numberline {3.3.9}5.b（知识性资源）、1.a（爱宠社区）、7.c（广告成本）}{10}{}%
+\contentsline {paragraph}{联系}{10}{}%
+\contentsline {subsubsection}{\numberline {3.3.10}4.c（专属宠物问诊）、9.d（专属服务）、8.b（经纪人佣金）}{10}{}%
+\contentsline {paragraph}{联系}{10}{}%
+\contentsline {subsubsection}{\numberline {3.3.11}4.b（自动化服务）、9.b（供应链系统）、8.a（资产销售）}{10}{}%
+\contentsline {paragraph}{联系}{10}{}%
+\contentsline {subsubsection}{\numberline {3.3.12}4.a（社区）、3.a（广告商）、8.c（广告费）}{10}{}%
+\contentsline {paragraph}{联系}{10}{}%
+\contentsline {subsubsection}{\numberline {3.3.13}1.b（平台管理）、5.c（人力资源）、7.a（员工工资）}{10}{}%
+\contentsline {paragraph}{联系}{10}{}%
+\contentsline {subsubsection}{\numberline {3.3.14}1.c（医疗服务）、4.d（商品买卖）、5.a（实物资源）、7.d（合作成本）}{10}{}%
+\contentsline {paragraph}{联系}{10}{}%
+\contentsline {subsubsection}{\numberline {3.3.15}6.a（线下宠物店）、6.b（线下宠物医院/宠物医师）、9.c（线下网点）}{10}{}%
+\contentsline {paragraph}{联系}{10}{}%
+\contentsline {subsubsection}{\numberline {3.3.16}6.c（宠物用品供应商）、6.d（快递业）、9.b（供应链系统）}{11}{}%
+\contentsline {paragraph}{联系}{11}{}%
+\contentsline {subsubsection}{\numberline {3.3.17}6.a（线下宠物店）、6.b（线下宠物医院/宠物医师）、6.c（宠物用品供应商）、6.d（快递业）、5.a（实物资源）}{11}{}%
+\contentsline {paragraph}{联系}{11}{}%
+\contentsline {subsubsection}{\numberline {3.3.18}2.a（一站式服务）、3.b（宠物爱好者）、2.c（兼职平台）、3.c（宠物医疗从业者）、8.b（经纪人佣金）}{11}{}%
+\contentsline {paragraph}{联系}{11}{}%
