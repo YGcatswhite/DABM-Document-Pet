@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.19)  20 SEP 2021 23:37
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.19)  22 SEP 2021 23:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -453,23 +453,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
-)
+LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.53937> not available
+(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 42.
+ [2])
 \tf@toc=\write3
 \openout3 = `项目启动.toc'.
 
-LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.53937> not available
-(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 50.
- [2]
+ [3]
 File: the-business-model-canvas.pdf Graphic file (type pdf)
 <use the-business-model-canvas.pdf>
- [3] [4] (./项目启动.aux) ) 
+ [4] [5] [6] [7] [8] [9] [10] [11] (./项目启动.aux) ) 
 Here is how much of TeX's memory you used:
- 9259 strings out of 478866
- 237862 string characters out of 5865579
- 559793 words of memory out of 5000000
- 28995 multiletter control sequences out of 15000+600000
+ 9479 strings out of 478866
+ 255268 string characters out of 5865579
+ 581787 words of memory out of 5000000
+ 29215 multiletter control sequences out of 15000+600000
  407338 words of font info for 71 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  101i,6n,104p,386b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 项目启动.pdf (4 pages).
+Output written on 项目启动.pdf (11 pages).
