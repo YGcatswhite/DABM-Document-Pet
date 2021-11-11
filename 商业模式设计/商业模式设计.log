@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.19)  10 NOV 2021 16:50
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.19)  11 NOV 2021 12:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -454,7 +454,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 3.
 LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.53937> not available
-(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 66.
+(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 67.
  [2])
 \tf@toc=\write3
 \openout3 = `商业模式设计.toc'.
@@ -471,8 +471,8 @@ File: ./移情图/宠物及用品供应商.pdf Graphic file (type pdf)
 File: ./移情图/动物保护志愿者.pdf Graphic file (type pdf)
 <use ./移情图/动物保护志愿者.pdf>
  [7] [8] [9] [10]
-File: ./可视化画布/可视化商业画布v2（带联系版）.jpg Graphic file (type bmp)
-<./可视化画布/可视化商业画布v2（带联系版）.jpg>
+File: 可视化画布v2.1.pdf Graphic file (type pdf)
+<use 可视化画布v2.1.pdf>
  [11]
 File: the-business-model-canvas1.pdf Graphic file (type pdf)
 <use the-business-model-canvas1.pdf>
@@ -500,10 +500,10 @@ Overfull \hbox (2.48695pt too wide) in paragraph at lines 297--298
 Missing character: There is no 増 (U+5897) in font [FandolSong-Regular.otf]/OT:language=dflt;!
  [21] [22] [23] [24] [25] [26] [27] (./商业模式设计.aux) ) 
 Here is how much of TeX's memory you used:
- 9769 strings out of 478866
- 274607 string characters out of 5865579
+ 9758 strings out of 478866
+ 274347 string characters out of 5865579
  584895 words of memory out of 5000000
- 29490 multiletter control sequences out of 15000+600000
+ 29484 multiletter control sequences out of 15000+600000
  407338 words of font info for 71 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  101i,6n,104p,685b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
