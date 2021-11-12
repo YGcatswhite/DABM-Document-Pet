@@ -1,15 +1,16 @@
 \contentsline {section}{\numberline {1}度量数值}{4}{}%
-\contentsline {section}{\numberline {2}商业模式设计}{4}{}%
-\contentsline {subsection}{\numberline {2.1}客户洞察}{4}{}%
-\contentsline {subsubsection}{\numberline {2.1.1}宠物爱好者}{4}{}%
-\contentsline {subsubsection}{\numberline {2.1.2}宠物医疗行业从事者}{5}{}%
-\contentsline {subsubsection}{\numberline {2.1.3}宠物及用品供应商}{6}{}%
-\contentsline {subsubsection}{\numberline {2.1.4}动物保护志愿者}{7}{}%
-\contentsline {subsection}{\numberline {2.2}构思}{8}{}%
-\contentsline {subsubsection}{\numberline {2.2.1}基本商业构思}{8}{}%
-\contentsline {subsubsection}{\numberline {2.2.2}候选商业模式创意}{8}{}%
+\contentsline {section}{\numberline {2}视频链接}{4}{}%
+\contentsline {section}{\numberline {3}商业模式设计}{4}{}%
+\contentsline {subsection}{\numberline {3.1}客户洞察}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}宠物爱好者}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}宠物医疗行业从事者}{5}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}宠物及用品供应商}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.4}动物保护志愿者}{7}{}%
+\contentsline {subsection}{\numberline {3.2}构思}{8}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}基本商业构思}{8}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}候选商业模式创意}{8}{}%
 \contentsline {paragraph}{驱动因素：}{8}{}%
-\contentsline {paragraph}{如果在平台建设初期，第三方合作者的数量不够怎么办？}{8}{}%
+\contentsline {paragraph}{如果在平台建设初期，第三方合作者的数量不够怎么办？}{9}{}%
 \contentsline {paragraph}{对整个商业模式画布的影响:}{9}{}%
 \contentsline {paragraph}{驱动因素：}{9}{}%
 \contentsline {paragraph}{如果用户活跃量不足，平台提供的功能、宣传的价值主张不能体现，该怎么办？}{9}{}%
@@ -17,25 +18,25 @@
 \contentsline {paragraph}{驱动因素：}{9}{}%
 \contentsline {paragraph}{如果平台运营初期，可周转资金有限，该如何分配成本结构？}{9}{}%
 \contentsline {paragraph}{对整个商业模式画布的影响:}{9}{}%
-\contentsline {paragraph}{驱动因素：}{9}{}%
+\contentsline {paragraph}{驱动因素：}{10}{}%
 \contentsline {paragraph}{如果除了已构想的服务外，平台额外提供了十分便捷的“运输/上门服务”，比如同城购买宠物或宠物用品“送宠到家”、购买大型宠物用具（如猫爬架）上门组装服务等，会怎么样？}{10}{}%
 \contentsline {paragraph}{对整个商业模式画布的影响:}{10}{}%
 \contentsline {paragraph}{驱动因素：}{10}{}%
 \contentsline {paragraph}{如果平台和中国小动物保护协会和动物保护志愿者展开合作，提供小动物（如猫、犬等）领养业务，会带来什么样的影响？}{10}{}%
 \contentsline {paragraph}{对整个商业模式画布的影响:}{10}{}%
-\contentsline {subsubsection}{\numberline {2.2.3}最终确定的商业模式创意}{10}{}%
-\contentsline {subsection}{\numberline {2.3}视觉化思考}{11}{}%
-\contentsline {subsubsection}{\numberline {2.3.1}可视化画布}{11}{}%
-\contentsline {subsubsection}{\numberline {2.3.2}相关分析说明}{11}{}%
-\contentsline {subsection}{\numberline {2.4}模型构建}{12}{}%
-\contentsline {subsubsection}{\numberline {2.4.1}商业模式画布}{12}{}%
-\contentsline {subsubsection}{\numberline {2.4.2}市场潜力预估}{12}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}最终确定的商业模式创意}{10}{}%
+\contentsline {subsection}{\numberline {3.3}视觉化思考}{11}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}可视化画布}{11}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}相关分析说明}{11}{}%
+\contentsline {subsection}{\numberline {3.4}模型构建}{12}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}商业模式画布}{12}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}市场潜力预估}{12}{}%
 \contentsline {paragraph}{宠物行业背景概述:}{12}{}%
 \contentsline {paragraph}{宠物食品市场:}{13}{}%
 \contentsline {paragraph}{宠物医疗市场:}{14}{}%
 \contentsline {paragraph}{总结:}{14}{}%
-\contentsline {subsubsection}{\numberline {2.4.3}商业模式画布要点}{14}{}%
-\contentsline {subsubsection}{\numberline {2.4.4}要点联系}{15}{}%
+\contentsline {subsubsection}{\numberline {3.4.3}商业模式画布要点}{14}{}%
+\contentsline {subsubsection}{\numberline {3.4.4}要点联系}{15}{}%
 \contentsline {paragraph}{2.c（兼职平台）、3.c（宠物医疗行业从事者）、4.c（专属宠物问诊）、9.d（专属服务）}{15}{}%
 \contentsline {paragraph}{2.d（定制）、3.b（宠物爱好者）、4.a（社区）、4.d（客户共同创造）、9.a（大咖分享）}{15}{}%
 \contentsline {paragraph}{2.a（缩减用户成本）、9.b（供应链系统）、9.c（线下网点）、3.d（宠物及其用品供应商）、3.d（宠物爱好者）}{15}{}%
@@ -55,15 +56,15 @@
 \contentsline {paragraph}{6.a（线下宠物店）、6.b（线下宠物医院/宠物医师）、6.c（宠物用品供应商）、6.d（快递业）、5.a（实物资源）}{17}{}%
 \contentsline {paragraph}{2.a（一站式服务）、3.b（宠物爱好者）、2.c（兼职平台）、3.c（宠物医疗从业者）、8.b（经纪人佣金）}{17}{}%
 \contentsline {paragraph}{4.b（自动化服务）、8.b（平台费用）}{17}{}%
-\contentsline {subsubsection}{\numberline {2.4.5}支撑事实（新闻、调研及分析）}{17}{}%
-\contentsline {subsection}{\numberline {2.5}讲故事}{22}{}%
-\contentsline {subsubsection}{\numberline {2.5.1}宠物爱好者}{22}{}%
-\contentsline {subsubsection}{\numberline {2.5.2}宠物医疗行业从事者}{23}{}%
-\contentsline {subsubsection}{\numberline {2.5.3}宠物及用品供应商}{23}{}%
-\contentsline {subsubsection}{\numberline {2.5.4}动物保护志愿者}{24}{}%
-\contentsline {subsubsection}{\numberline {2.5.5}公司视角}{24}{}%
-\contentsline {subsection}{\numberline {2.6}场景}{25}{}%
-\contentsline {subsubsection}{\numberline {2.6.1}宠物爱好者}{25}{}%
-\contentsline {subsubsection}{\numberline {2.6.2}宠物医疗行业从事者}{26}{}%
-\contentsline {subsubsection}{\numberline {2.6.3}宠物及用品供应商}{26}{}%
-\contentsline {subsubsection}{\numberline {2.6.4}动物保护志愿者}{27}{}%
+\contentsline {subsubsection}{\numberline {3.4.5}支撑事实（新闻、调研及分析）}{17}{}%
+\contentsline {subsection}{\numberline {3.5}讲故事}{22}{}%
+\contentsline {subsubsection}{\numberline {3.5.1}宠物爱好者}{22}{}%
+\contentsline {subsubsection}{\numberline {3.5.2}宠物医疗行业从事者}{23}{}%
+\contentsline {subsubsection}{\numberline {3.5.3}宠物及用品供应商}{23}{}%
+\contentsline {subsubsection}{\numberline {3.5.4}动物保护志愿者}{24}{}%
+\contentsline {subsubsection}{\numberline {3.5.5}公司视角}{24}{}%
+\contentsline {subsection}{\numberline {3.6}场景}{25}{}%
+\contentsline {subsubsection}{\numberline {3.6.1}宠物爱好者}{25}{}%
+\contentsline {subsubsection}{\numberline {3.6.2}宠物医疗行业从事者}{26}{}%
+\contentsline {subsubsection}{\numberline {3.6.3}宠物及用品供应商}{26}{}%
+\contentsline {subsubsection}{\numberline {3.6.4}动物保护志愿者}{27}{}%

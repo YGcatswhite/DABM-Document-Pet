@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.19)  11 NOV 2021 12:27
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.19)  12 NOV 2021 12:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -448,29 +448,30 @@ File: logo.png Graphic file (type bmp)
 
 ] (./商业模式设计.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.53937> on input line 3.
+(Font)              <10.53937> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
+(Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
+(Font)              <5> on input line 4.
 LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.53937> not available
-(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 67.
+(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 66.
  [2])
 \tf@toc=\write3
 \openout3 = `商业模式设计.toc'.
 
- [3]
+ [3] [4]
 File: ./移情图/宠物爱好者.pdf Graphic file (type pdf)
 <use ./移情图/宠物爱好者.pdf>
- [4] [5]
+ [5]
 File: ./移情图/宠物医疗行业从事者.pdf Graphic file (type pdf)
 <use ./移情图/宠物医疗行业从事者.pdf>
+ [6]
 File: ./移情图/宠物及用品供应商.pdf Graphic file (type pdf)
 <use ./移情图/宠物及用品供应商.pdf>
- [6]
+ [7]
 File: ./移情图/动物保护志愿者.pdf Graphic file (type pdf)
 <use ./移情图/动物保护志愿者.pdf>
- [7] [8] [9] [10]
+ [8] [9] [10]
 File: 可视化画布v2.1.pdf Graphic file (type pdf)
 <use 可视化画布v2.1.pdf>
  [11]
@@ -482,17 +483,17 @@ File: ./assets/宠物行业发展历程.png Graphic file (type bmp)
 File: ./assets/宠物行业范畴.png Graphic file (type bmp)
 <./assets/宠物行业范畴.png>
  [13] [14] [15] [16]
-Overfull \hbox (22.91231pt too wide) in paragraph at lines 264--265
+Overfull \hbox (22.91231pt too wide) in paragraph at lines 270--271
 []\TU/FandolSong-Regular(0)/m/n/10.53937 分 析：|  根 据 中 国 社 交 网 站 狗 民 网 \TU/lmr/m/n/10.53937 (Goumin.com) \TU/FandolSong-Regular(0)/m/n/10.53937 和 亚 洲 宠 物 博 览 会 \TU/lmr/m/n/10.53937 (http://www.petfairasia.com/)
  []
 
 [17] [18]
-Overfull \hbox (5.6277pt too wide) in paragraph at lines 290--291
+Overfull \hbox (5.6277pt too wide) in paragraph at lines 296--297
 []\TU/FandolSong-Regular(0)/m/n/10.53937 链 接：| \TU/lmr/m/n/10.53937 https://zhuanlan.zhihu.com/p/282818682\TU/FandolSong-Regular(0)/m/n/10.53937 ，| \TU/lmr/m/n/10.53937 https://www.douban.com/note/734581924/ 
  []
 
 
-Overfull \hbox (2.48695pt too wide) in paragraph at lines 297--298
+Overfull \hbox (2.48695pt too wide) in paragraph at lines 303--304
 []\TU/FandolSong-Regular(0)/m/n/10.53937 链 接：| \TU/lmr/m/n/10.53937 https://zhuanlan.zhihu.com/p/66738348\TU/FandolSong-Regular(0)/m/n/10.53937 ，| \TU/lmr/m/n/10.53937 https://www.zhihu.com/question/67870993\TU/FandolSong-Regular(0)/m/n/10.53937 ，|
  []
 
