@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.19)  22 NOV 2021 17:22
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.19)  3 DEC 2021 18:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/jiyun/Desktop/DABM-Document-Pet/商业模式评估/商业模式评估
-(c:/Users/jiyun/Desktop/DABM-Document-Pet/商业模式评估/商业模式评估.tex
+**c:/Users/jiyun/Desktop/大三上笔记/DABM-Document-Pet/商业模式评估/商业模式评估
+(c:/Users/jiyun/Desktop/大三上笔记/DABM-Document-Pet/商业模式评估/商业模式评估.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (c:/texlive/2021/texmf-dist/tex/latex/ctex/ctexart.cls (c:/texlive/2021/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
 File: ctexbackend.cfg 2021/03/14 v2.5.6 Backend configuration file (CTEX)
@@ -470,22 +470,261 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 2.
 LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.53937> not available
-(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 29.
+(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 143.
  [2])
 \tf@toc=\write3
 \openout3 = `商业模式评估.toc'.
 
- [3]
-Overfull \vbox (897.29964pt too high) has occurred while \output is active []
+ [3] [4] [5] [6] [7] [8]
+Overfull \hbox (0.36424pt too wide) in paragraph at lines 138--140
+|\TU/FandolSong-Regular(0)/m/n/10.53937 （\TU/lmr/m/n/10.53937 https://www.tmogroup.com.cn/more/ecommerce-platform/31808/\TU/FandolSong-Regular(0)/m/n/10.53937 ）|  这 篇 文 章 是 对 当 今 电 商 平 台
+ []
 
- [4] [5] (./商业模式评估.aux) ) 
+[9] [10] [11] [12] [13] [14]
+Missing character: There is no ⻛ (U+2EDB) in font [FandolSong-Regular.otf]/OT:language=dflt;!
+ [15] [16] [17] [18] [19]
+File: 总体评估.pdf Graphic file (type pdf)
+<use 总体评估.pdf>
+ [20]
+Underfull \hbox (badness 10000) in paragraph at lines 319--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--330
+
+ []
+
+[21]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22]
+
+LaTeX Warning: Float too large for page by 46.54239pt on input line 397.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23] [24]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25
+
+]
+
+LaTeX Warning: Float too large for page by 14.05946pt on input line 472.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26] [27]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[28
+
+]
+Underfull \hbox (badness 1728) in paragraph at lines 528--528
+[]|\TU/lmr/m/n/10.53937 (KR) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 能 用 更 低
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 530--530
+[]|\TU/lmr/m/n/10.53937 (KR) \TU/FandolSong-Regular(0)/m/n/10.53937 哪 些 核 心 资 源
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 532--532
+[]|\TU/lmr/m/n/10.53937 (KR) \TU/FandolSong-Regular(0)/m/n/10.53937 哪 些 核 心 资 源
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 534--534
+[]|\TU/lmr/m/n/10.53937 (KR) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 有 没 有 哪
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 536--536
+[]|\TU/lmr/m/n/10.53937 (KA) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 能 将 某 些
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 538--538
+[]|\TU/lmr/m/n/10.53937 (KA) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 能 提 升 整
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 546--546
+[]|\TU/lmr/m/n/10.53937 (KA)IT \TU/FandolSong-Regular(0)/m/n/10.53937 能 够 提 升 效
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 548--548
+[]|\TU/lmr/m/n/10.53937 (KP) \TU/FandolSong-Regular(0)/m/n/10.53937 有 外 包 的 机 会
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 550--550
+[]|\TU/lmr/m/n/10.53937 (KP) \TU/FandolSong-Regular(0)/m/n/10.53937 与 合 作 伙 伴 扩
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 552--552
+[]|\TU/lmr/m/n/10.53937 (KP) \TU/FandolSong-Regular(0)/m/n/10.53937 有 与 合 作 伙 伴
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 554--554
+[]|\TU/lmr/m/n/10.53937 (KP) \TU/FandolSong-Regular(0)/m/n/10.53937 合 作 伙 伴 的 渠
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 556--556
+[]|\TU/lmr/m/n/10.53937 (KP) \TU/FandolSong-Regular(0)/m/n/10.53937 合 作 伙 伴 能 够
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[29]
+Underfull \hbox (badness 2012) in paragraph at lines 573--573
+[]|\TU/lmr/m/n/10.53937 (CH) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 如 何 能 提
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 581--581
+[]|\TU/lmr/m/n/10.53937 (CH) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 能 更 好 地
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 583--583
+[]|\TU/lmr/m/n/10.53937 (CH) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 能 够 找 到
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 585--585
+[]|\TU/lmr/m/n/10.53937 (CH) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 能 够 通 过
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 587--587
+[]|\TU/lmr/m/n/10.53937 (CH) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 能 更 好 地
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 589--589
+[]|\TU/lmr/m/n/10.53937 (CR) \TU/FandolSong-Regular(0)/m/n/10.53937 有 可 能 提 升 客
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 591--591
+[]|\TU/lmr/m/n/10.53937 (CR) \TU/FandolSong-Regular(0)/m/n/10.53937 如 何 能 让 我 们
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 593--593
+[]|\TU/lmr/m/n/10.53937 (CR)(CR) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 能 够
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 595--595
+[]|\TU/lmr/m/n/10.53937 (CR) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 如 何 能 够
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 599--599
+[]|\TU/lmr/m/n/10.53937 (CR) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 需 要 让 某
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[30] [31]
+Underfull \hbox (badness 4144) in paragraph at lines 624--624
+[]|\TU/lmr/m/n/10.53937 (R$) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 的 利 润 受
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[32
+
+]
+Underfull \hbox (badness 1728) in paragraph at lines 643--643
+[]|\TU/lmr/m/n/10.53937 (KR) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 会 面 临 某
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 645--645
+[]|\TU/lmr/m/n/10.53937 (KR) \TU/FandolSong-Regular(0)/m/n/10.53937 资 源 的 质 量 能
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 647--647
+[]|\TU/lmr/m/n/10.53937 (KA) \TU/FandolSong-Regular(0)/m/n/10.53937 哪 些 关 键 业 务
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 649--649
+[]|\TU/lmr/m/n/10.53937 (KA) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 的 活 动 质
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 651--651
+[]|\TU/lmr/m/n/10.53937 (KP) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 有 可 能 会
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 653--653
+[]|\TU/lmr/m/n/10.53937 (KP) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 的 合 作 伙
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 655--655
+[]|\TU/lmr/m/n/10.53937 (KP) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 是 不 是 过
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33] [34]
+Underfull \hbox (badness 2012) in paragraph at lines 674--674
+[]|\TU/lmr/m/n/10.53937 (CH) \TU/FandolSong-Regular(0)/m/n/10.53937 竞 争 对 手 会 威
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 676--676
+[]|\TU/lmr/m/n/10.53937 (CH) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 的 渠 道 有
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 678--678
+[]|\TU/lmr/m/n/10.53937 (CR) \TU/FandolSong-Regular(0)/m/n/10.53937 我 们 的 客 户 关
+ []
+
+[35
+
+]
+File: 价值主张.pdf Graphic file (type pdf)
+<use 价值主张.pdf>
+ [36] [37] [38]
+File: 改动后画布.pdf Graphic file (type pdf)
+<use 改动后画布.pdf>
+
+Overfull \hbox (11.37213pt too wide) in paragraph at lines 740--741
+ [] 
+ []
+
+[39] [40] [41] [42] (./商业模式评估.aux) ) 
 Here is how much of TeX's memory you used:
- 9472 strings out of 478866
- 243271 string characters out of 5865579
- 571066 words of memory out of 5000000
- 29195 multiletter control sequences out of 15000+600000
+ 10056 strings out of 478866
+ 288391 string characters out of 5865579
+ 598724 words of memory out of 5000000
+ 29776 multiletter control sequences out of 15000+600000
  407444 words of font info for 72 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 101i,6n,104p,390b,280s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 101i,9n,104p,1117b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 商业模式评估.pdf (5 pages).
+Output written on 商业模式评估.pdf (42 pages).
