@@ -9,6 +9,7 @@
 \usepackage{multirow}
 \usepackage{enumitem}
 \usepackage[bottom]{footmisc}
+\usepackage[table,xcdraw]{xcolor}
 
 \renewcommand{\multirowsetup}{\centering}
 
@@ -103,7 +104,89 @@ PetLover，帮助宠物爱好者们从头见证宠物宝贝的成长！
 \subsection{投融资分析}
 
 \subsection{财务分析}
-
+% Please add the following required packages to your document preamble:
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[]
+  \begin{tabular}{|
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |}
+  \hline
+  资产（单位：万元） & 初期  & 第一年末 & 第二年末 & 第三年末 & 第四年末 & 第五年末 \\ \hline
+  现金        & 200 & 185  & 317  & 492  & 749  & 1136 \\ \hline
+  短期投资      & —   & —    & —    & —    & —    & —    \\ \hline
+  预付款项      & —   & 194  & 322  & 500  & 745  & 1010 \\ \hline
+  存货        & —   & 6    & 6    & 17   & 20   & 28   \\ \hline
+  待摊费用      & —   & —    & —    & 6    & 10   & 14   \\ \hline
+  流动资产      & 200 & 385  & 645  & 1015 & 1514 & 2188 \\ \hline
+  固定资产总额    & —   & 40   & 32   & 42   & 67   & 84   \\ \hline
+  累计折旧      & —   & 8    & 6    & 8    & 14   & 20   \\ \hline
+  固定资产净值    & —   & 32   & 25   & 35   & 52   & 62   \\ \hline
+  无形资产      & —   & 24   & 40   & 64   & 45   & 116  \\ \hline
+  资产合计      & 200 & 441  & 710  & 1114 & 1611 & 2366 \\ \hline
+  \end{tabular}
+  \end{table}
+% Please add the following required packages to your document preamble:
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[]
+  \begin{tabular}{|
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |}
+  \hline
+  负债和所有者权益（单位：万元） & 初期  & 第一年末 & 第二年末 & 第三年末 & 第四年末 & 第五年末 \\ \hline
+  短期借款            & —   & —    & —    & —    & —    & —    \\ \hline
+  应付工资            & —   & 64   & 64   & 96   & 112  & 120  \\ \hline
+  应付税金            & —   & 66   & 186  & 355  & 438  & 556  \\ \hline
+  其他应付款           & —   & 48   & 40   & 48   & 140  & 209  \\ \hline
+  流动负债合计          & —   & 180  & 290  & 500  & 690  & 885  \\ \hline
+  长期负债            & 40  & 52   & 53   & 0    & 0    & 0    \\ \hline
+  实收资本            & 160 & 160  & 160  & 160  & 160  & 160  \\ \hline
+  资本公积            & —   & —    & —    & —    & —    & —    \\ \hline
+  盈余公积            & —   & 10   & 28   & 54   & 66   & 84   \\ \hline
+  未分配利润           & —   & 41   & 180  & 328  & 741  & 1240 \\ \hline
+  负债和所有者权益合计      & 200 & 443  & 711  & 1042 & 1657 & 2369 \\ \hline
+  \end{tabular}
+  \end{table}
+% Please add the following required packages to your document preamble:
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[]
+  \begin{tabular}{|
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |
+  >{\columncolor[HTML]{FFFFFF}}c |}
+  \hline
+  收益（单位：万元）    & 第一年 & 第二年 & 第三年 & 第四年  & 第五年  \\ \hline
+  一、主营业务收入     & 328 & 600 & 880 & 1120 & 1440 \\ \hline
+  减：主营业务成本     & 75  & 85  & 92  & 122  & 136  \\ \hline
+  减：主营业务税金即附加  & 16  & 16  & 22  & 24   & 27   \\ \hline
+  二、主营业务利润（毛利） & 237 & 499 & 766 & 974  & 1277 \\ \hline
+  加：其他业务利润     & 15  & 17  & 25  & 30   & 38   \\ \hline
+  减：营业费用       & 64  & 18  & 22  & 25   & 28   \\ \hline
+  减：管理费用       & 2   & 2   & 5   & 7    & 9    \\ \hline
+  减：财务费用       & 3   & 2   & 2   & 3    & 5    \\ \hline
+  三、营业利润       & 183 & 494 & 762 & 969  & 1273 \\ \hline
+  加：投资收益       & 0   & 0   & 180 & 180  & 182  \\ \hline
+  加：营业外收入      & 0   & 0   & 10  & 24   & 30   \\ \hline
+  减：营业外支出      & 16  & 26  & 62  & 77   & 94   \\ \hline
+  减：所得税费用      & 67  & 187 & 356 & 438  & 556  \\ \hline
+  四、净利润        & 100 & 281 & 534 & 658  & 835  \\ \hline
+  \end{tabular}
+  \end{table}
 \subsection{财务比率分析}
 
 \section{运营规划}
