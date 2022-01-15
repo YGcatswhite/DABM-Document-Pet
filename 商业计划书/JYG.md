@@ -165,28 +165,6 @@ PetLover的主要成本有员工工资、设备成本、广告成本、合作成
 
 PetLover的收入来源有自营产品销售、平台费用、广告费。平台支持宠物以及宠物用品交易，提供自营店与专卖店，掌握供应链，完善售后客服，提供一系列完整的消费服务，从中收取资产销售费用；为了方便用户接受线下品牌实体店的服务，平台支持第三方宠物店交易以及宠物医院问诊，在服务过程中提供支付平台，从中收取交易手续费；平台还提供一些区域作为发布广告的场所（规定投放广告的质量以及出现频率要求，以为普通用户提供优质的使用体验为最终目的），从广告厂商处收取费用。
 
-由于成本结构的限制以及技术的要求，PetLover项目前期投入较高，本团队初始筹资200万元，其中创业团队将出资80万，南京大学双创中心提供资金为60万，面向社会引资60万，初始投资将用于社区搭建与维护、宣传吸引宠物及其用品商家、与宠物医疗部门和人员、知识分享博主等合作、云服务器等实物资源购买与维护，初期投入（第一年）资金分配预测如下表：
-
-```latex
-% Please add the following required packages to your document preamble:
-% \usepackage[table,xcdraw]{xcolor}
-% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
-\begin{table}[]
-\begin{tabular}{|
->{\columncolor[HTML]{FFFFFF}}c |
->{\columncolor[HTML]{FFFFFF}}c |
->{\columncolor[HTML]{FFFFFF}}c |
->{\columncolor[HTML]{FFFFFF}}c |
->{\columncolor[HTML]{FFFFFF}}c |
->{\columncolor[HTML]{FFFFFF}}c |
->{\columncolor[HTML]{FFFFFF}}l |}
-\hline
-前期投入资金分配（单位：万元） & 员工工资 & 设备成本 & 广告成本 & 合作成本 & 其他 & 合计  \\ \hline
-资金              & 20   & 10   & 40   & 90   & 40 & 200 \\ \hline
-\end{tabular}
-\end{table}
-```
-
 PetLover平台力求投入第一年即获得高收益，投入运营的第一年至第五年资产预测表如下：
 
 PetLover平台的投入运营的第一年至第五年负债和所有者权益预测表如下：

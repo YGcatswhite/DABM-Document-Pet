@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.19)  13 JAN 2022 23:16
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.19)  14 JAN 2022 22:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -474,41 +474,80 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 2.
 LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.53937> not available
-(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 31.
- [2])
+(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 40.
+ [2] [3])
 \tf@toc=\write3
 \openout3 = `商业计划书.toc'.
 
- [3]
+ [4] [5] [6] [7]
+File: 改动后画布.pdf Graphic file (type pdf)
+<use 改动后画布.pdf>
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 110.
-
-[4]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 137.
-
-
-Overfull \hbox (3.84938pt too wide) in paragraph at lines 138--160
-[][] 
+Overfull \hbox (11.37213pt too wide) in paragraph at lines 112--113
+ [] 
  []
 
+[8] [9] [10] [11]
+File: 494ac775492f4082a7531cfe9afdc63c.png Graphic file (type bmp)
+<494ac775492f4082a7531cfe9afdc63c.png>
+ [12]
+File: QQ截图20220114220853.png Graphic file (type bmp)
+<QQ截图20220114220853.png>
+
+Overfull \hbox (5.53558pt too wide) in paragraph at lines 182--183
+ [] 
+ []
+
+[13] [14] [15] [16] [17] [18] [19]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 164.
+               Default added (so using `tbp') on input line 299.
+
+[20] [21]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 344.
+
+[22]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 375.
 
 
-Overfull \vbox (400.79388pt too high) has occurred while \output is active []
+Overfull \hbox (3.84938pt too wide) in paragraph at lines 376--398
+ [][] 
+ []
 
- [5] [6] (./商业计划书.aux) ) 
+[23]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 406.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.52812> on input line 436.
+[24]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 439.
+
+[25]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 451.
+
+[26]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 462.
+
+[27] [28] [29] [30] [31] [32] (./商业计划书.aux) ) 
 Here is how much of TeX's memory you used:
- 9997 strings out of 478866
- 261254 string characters out of 5865579
- 620859 words of memory out of 5000000
- 29723 multiletter control sequences out of 15000+600000
- 407338 words of font info for 71 fonts, out of 8000000 for 9000
+ 10145 strings out of 478866
+ 271625 string characters out of 5865579
+ 599297 words of memory out of 5000000
+ 29867 multiletter control sequences out of 15000+600000
+ 408262 words of font info for 75 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 101i,9n,104p,388b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 101i,9n,104p,960b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 商业计划书.pdf (6 pages).
+Output written on 商业计划书.pdf (32 pages).
